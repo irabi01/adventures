@@ -11498,7 +11498,41 @@ function AboutUs() {
       lineNumber: 6
     },
     __self: this
-  }, "About adverture app."));
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "about_page",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "row",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "col-md-12",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: this
+  }, "About Adventure")))))));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (AboutUs);
@@ -11551,10 +11585,31 @@ function Footer() {
       lineNumber: 6
     },
     __self: this
-  }), " ", new Date().getFullYear(), " All rights reserved. Advernture")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+  }), " ", new Date().getFullYear(), " All rights reserved. Advernture"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("hr", {
+    className: "jsx-3209362859",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-3209362859",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("mark", {
+    className: "jsx-3209362859",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, "Designed with love by Irabi Kassim"))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "3209362859",
     __self: this
-  }, ".footer_page.jsx-3209362859{background-color:#231f20;padding:100px 0px;}.footer_page.jsx-3209362859 p.jsx-3209362859{font-size:18px;color:#fff;text-align:center;text-transform:initial;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcMDFcXERvY3VtZW50c1xcUHJvamVjdHNcXHdlYlxcbmV4dEpzXFxhZHZlbnR1cmVBcHBcXHBhZ2VzXFxmb290ZXIuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBUXFCLEFBR3NELEFBS1YsZUFDSixVQUxPLENBTUEsaUJBTHRCLENBT0QsdUJBQUMiLCJmaWxlIjoiQzpcXFVzZXJzXFwwMVxcRG9jdW1lbnRzXFxQcm9qZWN0c1xcd2ViXFxuZXh0SnNcXGFkdmVudHVyZUFwcFxccGFnZXNcXGZvb3Rlci5qcyIsInNvdXJjZXNDb250ZW50IjpbIlxyXG5mdW5jdGlvbiBGb290ZXIoKXtcclxuICAgIHJldHVybihcclxuICAgICAgICAgICAgPGRpdj5cclxuICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZm9vdGVyX3BhZ2VcIj5cclxuICAgICAgICAgICAgICAgICAgICA8cD48aSBjbGFzc05hbWU9XCJmYSBmYS1jb3B5cmlnaHRcIj48L2k+IHsobmV3IERhdGUoKS5nZXRGdWxsWWVhcigpKX0gQWxsIHJpZ2h0cyByZXNlcnZlZC4gQWR2ZXJudHVyZTwvcD5cclxuICAgICAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICAgICAgPHN0eWxlIGpzeD5cclxuICAgICAgICAgICAgICAgICAgICB7YFxyXG4gICAgICAgICAgICAgICAgICAgICAgICAuZm9vdGVyX3BhZ2V7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMjMxZjIwO1xyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogMTAwcHggMHB4O1xyXG4gICAgICAgICAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIFxyXG4gICAgICAgICAgICAgICAgICAgICAgICAuZm9vdGVyX3BhZ2UgcHtcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMThweDtcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAjZmZmO1xyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dC10cmFuc2Zvcm06IGluaXRpYWxcclxuICAgICAgICAgICAgICAgICAgICAgICAgfVxyXG4gICAgICAgICAgICAgICAgICAgIGB9XHJcbiAgICAgICAgICAgICAgICA8L3N0eWxlPlxyXG4gICAgICAgICAgICA8L2Rpdj5cclxuXHJcbiAgICApXHJcbn1cclxuXHJcbmV4cG9ydCBkZWZhdWx0IEZvb3RlciJdfQ== */\n/*@ sourceURL=C:\\Users\\01\\Documents\\Projects\\web\\nextJs\\adventureApp\\pages\\footer.js */"));
+  }, ".footer_page.jsx-3209362859{background-color:#231f20;padding:100px 0px;}.footer_page.jsx-3209362859 p.jsx-3209362859{font-size:18px;color:#fff;text-align:center;text-transform:initial;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcMDFcXERvY3VtZW50c1xcUHJvamVjdHNcXHdlYlxcbmV4dEpzXFxhZHZlbnR1cmVBcHBcXHBhZ2VzXFxmb290ZXIuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBVXFCLEFBR3NELEFBS1YsZUFDSixVQUxPLENBTUEsaUJBTHRCLENBT0QsdUJBQUMiLCJmaWxlIjoiQzpcXFVzZXJzXFwwMVxcRG9jdW1lbnRzXFxQcm9qZWN0c1xcd2ViXFxuZXh0SnNcXGFkdmVudHVyZUFwcFxccGFnZXNcXGZvb3Rlci5qcyIsInNvdXJjZXNDb250ZW50IjpbIlxyXG5mdW5jdGlvbiBGb290ZXIoKXtcclxuICAgIHJldHVybihcclxuICAgICAgICAgICAgPGRpdj5cclxuICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZm9vdGVyX3BhZ2VcIj5cclxuICAgICAgICAgICAgICAgICAgICA8cD48aSBjbGFzc05hbWU9XCJmYSBmYS1jb3B5cmlnaHRcIj48L2k+IHsobmV3IERhdGUoKS5nZXRGdWxsWWVhcigpKX0gQWxsIHJpZ2h0cyByZXNlcnZlZC4gQWR2ZXJudHVyZTwvcD5cclxuICAgICAgICAgICAgICAgICAgICA8aHIvPlxyXG4gICAgICAgICAgICAgICAgICAgIDxwPjxtYXJrPkRlc2lnbmVkIHdpdGggbG92ZSBieSBJcmFiaSBLYXNzaW08L21hcms+PC9wPlxyXG4gICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICA8c3R5bGUganN4PlxyXG4gICAgICAgICAgICAgICAgICAgIHtgXHJcbiAgICAgICAgICAgICAgICAgICAgICAgIC5mb290ZXJfcGFnZXtcclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICMyMzFmMjA7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOiAxMDBweCAwcHg7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIH1cclxuICAgICAgICAgICAgICAgICAgICAgICAgXHJcbiAgICAgICAgICAgICAgICAgICAgICAgIC5mb290ZXJfcGFnZSBwe1xyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9udC1zaXplOiAxOHB4O1xyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICNmZmY7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0LXRyYW5zZm9ybTogaW5pdGlhbFxyXG4gICAgICAgICAgICAgICAgICAgICAgICB9XHJcbiAgICAgICAgICAgICAgICAgICAgYH1cclxuICAgICAgICAgICAgICAgIDwvc3R5bGU+XHJcbiAgICAgICAgICAgIDwvZGl2PlxyXG5cclxuICAgIClcclxufVxyXG5cclxuZXhwb3J0IGRlZmF1bHQgRm9vdGVyIl19 */\n/*@ sourceURL=C:\\Users\\01\\Documents\\Projects\\web\\nextJs\\adventureApp\\pages\\footer.js */"));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (Footer);
@@ -11743,7 +11798,7 @@ function Navigation() {
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "navbar-brand",
-    href: "#",
+    href: "/",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
@@ -11927,14 +11982,14 @@ function Navigation() {
       lineNumber: 49
     },
     __self: this
-  }, "\n                        .bg-light{\n                            background: #fff !important;\n                        }\n                        .navbar-brand{\n                            color:#000;\n                            font-size: 18px;\n                            font-weight: bold;\n                        }\n                        div ul li:hover{\n                            background: #475635;\n                        }\n                        div ul li:hover a{\n                            color: #fff;\n                        }\n                        div ul li a{\n                            text-align: center;\n                            color:#000;\n                            font-weight: bold;\n                        }\n                        .cpBtn{\n                            padding: 2px 5px;\n                            border: none;\n                            outline: none;\n                        }\n                        .cpBtn > div{\n                            width: 30px;\n                            height: 5px;\n                            background: #475635;\n                            margin: 3px 0px;\n                            border-radius: 4px;\n                            \n                        }\n  \n                    \n                    "));
+  }, "\n                        .bg-light{\n                            background: #f58209 !important;\n                        }\n                        .navbar-brand{\n                            color:#000;\n                            font-size: 18px;\n                            font-weight: bold;\n                        }\n                        div ul li{\n                            border-right: 1px solid #fff;\n                        }\n                        div ul li:hover{\n                            background: #475635;\n                        }\n                        div ul li:hover a{\n                            color: #fff;\n                        }\n                        div ul li a{\n                            text-align: center;\n                            color:#fff;\n                            font-weight: bold;\n                            font-size:15px;\n                            font-family:monospace;\n                            letter-spacing:2px;\n                        }\n                        .cpBtn{\n                            padding: 2px 5px;\n                            border: none;\n                            outline: none;\n                        }\n                        .cpBtn > div{\n                            width: 30px;\n                            height: 5px;\n                            background: #475635;\n                            margin: 3px 0px;\n                            border-radius: 4px;\n                            \n                        }\n                        /* Extra small devices (phones, 600px and down) */\n                        @media only screen and (max-width: 600px) {\n                            div ul li{\n                                border-right: none;\n                            }\n                        } \n\n                        /* Small devices (portrait tablets and large phones, 600px and up) */\n                        @media only screen and (min-width: 600px) {\n                            div ul li{\n                                border-right: none;\n                            }\n                        } \n\n                        /* Medium devices (landscape tablets, 768px and up) */\n                        @media only screen and (min-width: 768px) {\n                            div ul li{\n                                border-right: 1px solid #fff;\n                            }\n                        } \n\n                        /* Large devices (laptops/desktops, 992px and up) */\n                        @media only screen and (min-width: 992px) {...} \n\n                        /* Extra large devices (large laptops and desktops, 1200px and up) */\n                        @media only screen and (min-width: 1200px) {...}\n  \n                    \n                    "));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (Navigation);
 
 /***/ }),
 
-/***/ 6:
+/***/ 3:
 /*!***************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fabout&absolutePagePath=C%3A%5CUsers%5C01%5CDocuments%5CProjects%5Cweb%5CnextJs%5CadventureApp%5Cpages%5Cabout.js ***!
   \***************************************************************************************************************************************************************/
@@ -11957,5 +12012,5 @@ module.exports = dll_55dc4e2ecf7824085104;
 
 /***/ })
 
-},[[6,"static/runtime/webpack.js"]]]));;
+},[[3,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=about.js.map

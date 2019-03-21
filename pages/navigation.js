@@ -4,7 +4,7 @@ function Navigation(){
     return(
         <div>
             <nav class="navbar navbar-expand-lg bg-light fixed-top">
-                <a class="navbar-brand" href="#">Adventure Logo</a>
+                <a class="navbar-brand" href="/">Adventure Logo</a>
                 <button class="navbar-toggler cpBtn" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
                     <div></div>
                     <div></div>
@@ -49,12 +49,15 @@ function Navigation(){
                 <style>
                     {`
                         .bg-light{
-                            background: #fff !important;
+                            background: #f58209 !important;
                         }
                         .navbar-brand{
                             color:#000;
                             font-size: 18px;
                             font-weight: bold;
+                        }
+                        div ul li{
+                            border-right: 1px solid #fff;
                         }
                         div ul li:hover{
                             background: #475635;
@@ -64,8 +67,11 @@ function Navigation(){
                         }
                         div ul li a{
                             text-align: center;
-                            color:#000;
+                            color:#fff;
                             font-weight: bold;
+                            font-size:15px;
+                            font-family:monospace;
+                            letter-spacing:2px;
                         }
                         .cpBtn{
                             padding: 2px 5px;
@@ -80,6 +86,32 @@ function Navigation(){
                             border-radius: 4px;
                             
                         }
+                        /* Extra small devices (phones, 600px and down) */
+                        @media only screen and (max-width: 600px) {
+                            div ul li{
+                                border-right: none;
+                            }
+                        } 
+
+                        /* Small devices (portrait tablets and large phones, 600px and up) */
+                        @media only screen and (min-width: 600px) {
+                            div ul li{
+                                border-right: none;
+                            }
+                        } 
+
+                        /* Medium devices (landscape tablets, 768px and up) */
+                        @media only screen and (min-width: 768px) {
+                            div ul li{
+                                border-right: 1px solid #fff;
+                            }
+                        } 
+
+                        /* Large devices (laptops/desktops, 992px and up) */
+                        @media only screen and (min-width: 992px) {...} 
+
+                        /* Extra large devices (large laptops and desktops, 1200px and up) */
+                        @media only screen and (min-width: 1200px) {...}
   
                     
                     `}

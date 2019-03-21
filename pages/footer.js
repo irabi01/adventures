@@ -4,6 +4,8 @@ function Footer(){
             <div>
                 <div className="footer_page">
                     <p><i className="fa fa-copyright"></i> {(new Date().getFullYear())} All rights reserved. Advernture</p>
+                    <hr/>
+                    <p><mark>Designed with love by Irabi Kassim</mark></p>
                 </div>
                 <style jsx>
                     {`

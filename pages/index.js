@@ -3,6 +3,8 @@ import Link from 'next/link'
 import Quotation from '../components/quotation';
 import Condition from '../components/condition';
 import AboutComponent from '../components/about';
+import TwoSides from '../components/twosides';
+import Numbers from '../components/numbers';
 function Home() {
     
     return(
@@ -31,7 +33,9 @@ function Home() {
                 </div>
                 <Quotation/>
                 <AboutComponent/>
+                <TwoSides/>
                 <Condition/>
+                <Numbers/>
                 <style jsx>
                     {`
                     

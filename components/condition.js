@@ -22,7 +22,7 @@ function Condition(){
             <style>
                 {`
                     .servcie_component{
-                        background:#ddd;
+                        background:#fff;
                         color: #000;
                         padding: 200px 0px;
                     }
